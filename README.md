@@ -1,5 +1,5 @@
 # P2_Probstat_D_5025201190
-**Praktikum 1 Probabilitas dan Statistika** <br>
+**Praktikum 2 Probabilitas dan Statistika** <br>
 Nama: Azzura Ferliani Ramadhani <br>
 NRP : 5025201190 <br>
 Kelas: Probstat - D <br>
